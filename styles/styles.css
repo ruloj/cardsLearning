@@ -1,0 +1,42 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    border: 1px solid black;
+    background-color: gray;
+}
+
+h2{
+    text-align: center;
+}
+
+.container{
+    margin: 1rem;
+    padding: .5rem;
+}
+
+.container-body{
+    margin: 1rem;
+    padding: .5rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container-categories{
+    margin: .5rem;
+    padding: 1rem;
+}
+
+.container-cards{
+    margin: .5rem;
+    padding: 1rem;
+}
+
+.categorie{
+    padding: 1rem;
+    margin-bottom: .5rem;
+}
+
+.card{
+    padding: 1rem;
+    margin-bottom: .5rem;
+}
